@@ -1,6 +1,6 @@
 from numpy import *
 from math import *
-
+#calculate arctan (pi/3) using the following maclaurin series
 def f(n, x):
     result = 0.0
     for i in range(n):
