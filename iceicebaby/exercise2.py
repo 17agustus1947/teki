@@ -1,7 +1,7 @@
 from numpy import *
 from math import *
 import matplotlib.pyplot as plt
-
+#create csv (comma seperated value) file that consist of the following numbers
 file = open("textfile.txt")
 x = []
 y = []
